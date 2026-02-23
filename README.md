@@ -21,7 +21,7 @@ This project demonstrates practical competencies in fundamental machine learning
 ## Labs
 
 + Linear Regression
-  + Constructing a Regression Line
+  + Constructing a Regression Line ([link](linear-regression/wine-quality.ipynb))
 + Decision Trees
   + Classification Tree and Random Forest
   + Decision Trees - Regressor
