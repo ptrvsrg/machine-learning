@@ -21,10 +21,10 @@ This project demonstrates practical competencies in fundamental machine learning
 ## Labs
 
 + Linear Regression
-  + Constructing a Regression Line ([link](linear-regression/wine-quality.ipynb))
+  + Constructing a Regression Line ([link](linear-regression/wine-quality-regressor.ipynb))
 + Decision Trees
-  + Classification Tree and Random Forest ([link](decision-tree/speed-dating.ipynb))
-  + Decision Trees - Regressor
+  + Classification Tree and Random Forest ([link](decision-tree/speed-dating-regressor.ipynb))
+  + Decision Trees - Regressor ([link](decision-tree/speed-dating-classifier.ipynb))
 + Classification
   + Naive Bayes
   + Neighborhood Alignment
