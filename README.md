@@ -23,7 +23,7 @@ This project demonstrates practical competencies in fundamental machine learning
 + Linear Regression
   + Constructing a Regression Line ([link](linear-regression/wine-quality.ipynb))
 + Decision Trees
-  + Classification Tree and Random Forest
+  + Classification Tree and Random Forest ([link](decision-tree/speed-dating.ipynb))
   + Decision Trees - Regressor
 + Classification
   + Naive Bayes
