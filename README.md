@@ -6,7 +6,7 @@
 
 A comprehensive collection of machine learning algorithms implemented from scratch and demonstrated with practical examples. The project covers core ML topics — from linear regression to neural networks — organized into four thematic blocks.
 
-## 📖 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Labs](#labs)
@@ -23,8 +23,8 @@ This project demonstrates practical competencies in fundamental machine learning
 + Linear Regression
   + Constructing a Regression Line ([link](linear-regression/diamond-price-regressor.ipynb))
 + Decision Trees
-  + Classification Tree and Random Forest
-  + Decision Trees - Regressor
+  + Classification Tree and Random Forest ([link](decision-tree/speed-dating-regressor.ipynb))
+  + Decision Trees - Regressor ([link](decision-tree/speed-dating-classifier.ipynb))
 + Classification
   + Naive Bayes
   + Neighborhood Alignment
@@ -56,7 +56,3 @@ Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md)
 ## License
 
 Distributed under the terms of the license specified in the [LICENSE](LICENSE) file.
-
----
-
-> ⭐ If you find this project useful, please consider giving it a star!
