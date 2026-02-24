@@ -26,7 +26,7 @@ This project demonstrates practical competencies in fundamental machine learning
   + Classification Tree and Random Forest ([link](decision-tree/speed-dating-regressor.ipynb))
   + Decision Trees - Regressor ([link](decision-tree/speed-dating-classifier.ipynb))
 + Classification
-  + Naive Bayes
+  + Naive Bayes ([link](classifier/wine-quality-classifier.ipynb))
   + Neighborhood Alignment
   + Support Vector Machines (SVM)
 + Clustering
