@@ -1,6 +1,6 @@
 # Machine Learning
 
-[![License](https://img.shields.io/github/license/ptrvsrg/machine-learning)](https://github.com/ptrvsrg/machine-learning/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/ptrvsrg/machine-learning)](https://github.com/ptrvsrg/machine-learning/blob/master/LICENSE.md)
 [![Issues](https://img.shields.io/github/issues/ptrvsrg/machine-learning)](https://github.com/ptrvsrg/machine-learning/issues)
 [![Stars](https://img.shields.io/github/stars/ptrvsrg/machine-learning)](https://github.com/ptrvsrg/machine-learning/stargazers)
 
@@ -21,7 +21,7 @@ This project demonstrates practical competencies in fundamental machine learning
 ## Labs
 
 + Linear Regression
-  + Constructing a Regression Line ([link](linear-regression/wine-quality-regressor.ipynb))
+  + Constructing a Regression Line ([link](linear-regression/diamond-price-regressor.ipynb))
 + Decision Trees
   + Classification Tree and Random Forest ([link](decision-tree/speed-dating-regressor.ipynb))
   + Decision Trees - Regressor ([link](decision-tree/speed-dating-classifier.ipynb))
