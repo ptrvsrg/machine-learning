@@ -28,7 +28,7 @@ This project demonstrates practical competencies in fundamental machine learning
 + Classification
   + Naive Bayes ([link](classifier/wine-quality-classifier.ipynb))
   + Neighborhood Alignment ([link](classifier/parkinsons-disease-classifier.ipynb))
-  + Support Vector Machines (SVM)
+  + Support Vector Machines (SVM) ([link](classifier/star-classifier.ipynb))
 + Clustering
   + k-Means, k-Means++
   + DBSCAN
