@@ -23,8 +23,8 @@ This project demonstrates practical competencies in fundamental machine learning
 + Linear Regression
   + Constructing a Regression Line ([link](linear-regression/diamond-price-regressor.ipynb))
 + Decision Trees
-  + Classification Tree and Random Forest ([link](decision-tree/speed-dating-regressor.ipynb))
-  + Decision Trees - Regressor ([link](decision-tree/speed-dating-classifier.ipynb))
+  + Classification Tree and Random Forest ([link](decision-tree/speed-dating-classifier.ipynb))
+  + Decision Trees - Regressor ([link](decision-tree/car-price-regressor.ipynb))
 + Classification
   + Naive Bayes ([link](classifier/wine-quality-classifier.ipynb))
   + Neighborhood Alignment ([link](classifier/parkinsons-disease-classifier.ipynb))
