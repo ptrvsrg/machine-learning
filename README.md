@@ -34,7 +34,7 @@ This project demonstrates practical competencies in fundamental machine learning
 + Clustering
   + k-Means, k-Means++ ([link](clustering/credit-card-clustering.ipynb))
   + DBSCAN ([link](clustering/online-retail-clustering.ipynb))
-  + Mean Shift
+  + Mean Shift ([link](clustering/wholesale-customers-clustering.ipynb))
 + Dimension Reduction Algorithms
   + Principal Component Analysis (PCA)
 + Neural Networks
