@@ -8,11 +8,13 @@ A comprehensive collection of machine learning algorithms implemented from scrat
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Labs](#labs)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
+- [Machine Learning](#machine-learning)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Labs](#labs)
+  - [Documentation](#documentation)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Overview
 
@@ -30,8 +32,8 @@ This project demonstrates practical competencies in fundamental machine learning
   + Neighborhood Alignment ([link](classifier/parkinsons-disease-classifier.ipynb))
   + Support Vector Machines (SVM) ([link](classifier/star-classifier.ipynb))
 + Clustering
-  + k-Means, k-Means++
-  + DBSCAN
+  + k-Means, k-Means++ ([link](clustering/credit-card-clustering.ipynb))
+  + DBSCAN ([link](clustering/online-retail-clustering.ipynb))
   + Mean Shift
 + Dimension Reduction Algorithms
   + Principal Component Analysis (PCA)
