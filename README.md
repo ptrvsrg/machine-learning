@@ -36,7 +36,7 @@ This project demonstrates practical competencies in fundamental machine learning
   + DBSCAN ([link](clustering/online-retail-clustering.ipynb))
   + Mean Shift ([link](clustering/wholesale-customers-clustering.ipynb))
 + Dimension Reduction Algorithms
-  + Principal Component Analysis (PCA)
+  + Principal Component Analysis (PCA) ([link](dimension-reduction/breast-cancer-dimension-reduction.ipynb))
 + Neural Networks
   + Feedforward Neural Network, Classification
   + Feedforward Neural Network, Regressor
