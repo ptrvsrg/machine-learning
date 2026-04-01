@@ -38,7 +38,7 @@ This project demonstrates practical competencies in fundamental machine learning
 + Dimension Reduction Algorithms
   + Principal Component Analysis (PCA) ([link](dimension-reduction/breast-cancer-dimension-reduction.ipynb))
 + Neural Networks
-  + Feedforward Neural Network, Classification
+  + Feedforward Neural Network, Classification ([link](neural-network/cyber-security-classification.ipynb))
   + Feedforward Neural Network, Regressor
 
 ## Documentation
