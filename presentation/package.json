@@ -1,0 +1,19 @@
+{
+  "name": "gradient-boosting-trees-slidev",
+  "type": "module",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.14.2",
+    "@slidev/theme-default": "latest",
+    "vue": "^3.5.29"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.46.0"
+  }
+}
