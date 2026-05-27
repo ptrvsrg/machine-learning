@@ -23,23 +23,27 @@ This project demonstrates practical competencies in fundamental machine learning
 ## Labs
 
 + Linear Regression
-  + Constructing a Regression Line ([link](linear-regression/diamond-price-regressor.ipynb))
+  + Constructing a Regression Line ([link](1-linear-regression/diamond-price-regressor.ipynb))
 + Decision Trees
-  + Classification Tree and Random Forest ([link](decision-tree/speed-dating-classifier.ipynb))
-  + Decision Trees - Regressor ([link](decision-tree/car-price-regressor.ipynb))
+  + Classification Tree and Random Forest ([link](1-decision-tree/speed-dating-classifier.ipynb))
+  + Decision Trees - Regressor ([link](1-decision-tree/car-price-regressor.ipynb))
 + Classification
-  + Naive Bayes ([link](classifier/wine-quality-classifier.ipynb))
-  + Neighborhood Alignment ([link](classifier/parkinsons-disease-classifier.ipynb))
-  + Support Vector Machines (SVM) ([link](classifier/star-classifier.ipynb))
+  + Naive Bayes ([link](2-classifier/wine-quality-classifier.ipynb))
+  + Neighborhood Alignment ([link](2-classifier/parkinsons-disease-classifier.ipynb))
+  + Support Vector Machines (SVM) ([link](2-classifier/star-classifier.ipynb))
 + Clustering
-  + k-Means, k-Means++ ([link](clustering/credit-card-clustering.ipynb))
-  + DBSCAN ([link](clustering/online-retail-clustering.ipynb))
-  + Mean Shift ([link](clustering/wholesale-customers-clustering.ipynb))
+  + k-Means, k-Means++ ([link](3-clustering/credit-card-clustering.ipynb))
+  + DBSCAN ([link](3-clustering/online-retail-clustering.ipynb))
+  + Mean Shift ([link](3-clustering/wholesale-customers-clustering.ipynb))
 + Dimension Reduction Algorithms
-  + Principal Component Analysis (PCA) ([link](dimension-reduction/breast-cancer-dimension-reduction.ipynb))
+  + Principal Component Analysis (PCA) ([link](4-dimension-reduction/breast-cancer-dimension-reduction.ipynb))
 + Neural Networks
-  + Feedforward Neural Network, Classification ([link](neural-network/cyber-security-classification.ipynb))
-  + Feedforward Neural Network, Regressor ([link](neural-network/flight-price-regression.ipynb))
+  + Feedforward Neural Network, Classification ([link](4-neural-network/cyber-security-classification.ipynb))
+  + Feedforward Neural Network, Regressor ([link](4-neural-network/flight-price-regression.ipynb))
+
+## Presentation
+
+Presentation project is located in [./presentation](presentation)
 
 ## Documentation
 
