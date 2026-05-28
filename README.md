@@ -43,7 +43,7 @@ This project demonstrates practical competencies in fundamental machine learning
 
 ## Presentation
 
-Presentation project is located in [./presentation](presentation)
+Presentation is located in [./slides.pdf](slides.pdf)
 
 ## Documentation
 
